@@ -1,5 +1,6 @@
 cement
-
+- 🌱 I’m currently learning C# and x86 assembly
+- 😄 Pronouns: he/him/sus/amogus
 <!--
 **pankoza-pl/pankoza-pl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
