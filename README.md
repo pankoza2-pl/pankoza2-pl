@@ -1,4 +1,4 @@
-Chomik
+<!-- Chomik -->
 - 🌱 I’m currently learning C++, C# and x86 assembly
 - 😄 Pronouns: he/him/sus/amogus
 <!--
