@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning C++, C#, VB.net and x86 assembly
 - 😄 Pronouns: he/him/sus/amogus
 - 📫 How to reach me: you can't
+- 🇺🇦 Glory to Ukraine
 <!--
 **pankoza-pl/pankoza-pl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
