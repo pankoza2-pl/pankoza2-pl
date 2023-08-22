@@ -1,7 +1,7 @@
 <!-- Chomik -->
-- 🔭 I’m currently working on GDI Payloads
+- 🔭 I’m currently working on...
 - 🌱 I’m currently learning C++, C#, VB.net and x86 assembly
-- 😄 Pronouns: he/him/sus/amogus
+- 😄 Pronouns: he/him/amo/gus
 - 📫 How to reach me: you can't
 - 🇺🇦 Glory to Ukraine
 - ❤️‍🩹
