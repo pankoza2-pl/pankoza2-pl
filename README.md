@@ -1,6 +1,6 @@
 <!-- Chomik -->
-- 🔭 I’m currently working on...
-- 🌱 I’m currently learning C++, C#, VB.net and x86 assembly
+- 🔭 I’m currently working on contributing to open source projects in my free time
+- 🌱 I’m currently learning C, C++, C#, VB.net and x86 assembly
 - 😄 Pronouns: he/him/amo/gus
 - 📫 How to reach me: you can't
 - 🇺🇦 Glory to Ukraine
