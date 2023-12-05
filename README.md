@@ -1,10 +1,11 @@
 <!-- Chomik -->
 - 🔭 I’m currently working on contributing to open source projects in my free time
-- 🌱 I’m currently learning C, C++, C#, VB.net and x86 assembly
+- 🌱 I’m currently learning C, C++, C#, VB.net, Python and x86 assembly
 - 😄 Pronouns: he/him/amo/gus
 - 📫 How to reach me: you can't
-- 🇺🇦 Glory to Ukraine
+- 🇺🇦  Glory to Ukraine
 - ❤️‍🩹
+- 🐹 Chomik
 <!--
 **pankoza-pl/pankoza-pl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
