@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C, C++, C#, VB.net, Python and x86 assembly
 - 😄 Pronouns: he/him/amo/gus
 - 📫 How to reach me: you can't
-- 🇺🇦  Glory to Ukraine
+- 🇺🇦  Glory to Ukraine and 🇵🇸 Palestine
 - ❤️‍🩹
 - 🐹 Chomik
 <!--
