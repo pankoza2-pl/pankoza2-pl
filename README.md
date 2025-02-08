@@ -1,7 +1,7 @@
 <!-- Chomik -->
 - 🔭 I’m currently working on contributing to open source projects in my free time
 - 🌱 I’m currently learning C, C++, C#, VB.net, Python and x86 assembly
-- 😄 Pronouns: he/him/amo/gus
+- 😄 Pronouns: he/him/Free/Palestine
 - 📫 How to reach me: you can't
 - 🇺🇦  Glory to Ukraine and 🇵🇸 Palestine
 - ❤️‍🩹
